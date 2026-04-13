@@ -1,2 +1,1 @@
-# AWS
-AWS cloud / DevOps documentation repo. 
+# AWS cloud / DevOps documentation repo. 
